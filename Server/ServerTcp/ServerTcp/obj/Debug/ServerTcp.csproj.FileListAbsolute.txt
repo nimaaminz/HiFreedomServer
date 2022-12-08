@@ -1,0 +1,11 @@
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\bin\Debug\ServerTcp.exe.config
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\bin\Debug\ServerTcp.exe
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\bin\Debug\ServerTcp.pdb
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.csproj.AssemblyReference.cache
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.csproj.SuggestedBindingRedirects.cache
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.Form1.resources
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.Properties.Resources.resources
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.csproj.GenerateResource.cache
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.csproj.CoreCompileInputs.cache
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.exe
+D:\Local Chat TCP\Server\ServerTcp\ServerTcp\obj\Debug\ServerTcp.pdb

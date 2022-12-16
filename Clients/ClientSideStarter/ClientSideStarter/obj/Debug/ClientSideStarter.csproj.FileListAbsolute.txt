@@ -1,0 +1,11 @@
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\bin\Debug\ClientSideStarter.exe.config
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\bin\Debug\ClientSideStarter.exe
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\bin\Debug\ClientSideStarter.pdb
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.csproj.AssemblyReference.cache
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.csproj.SuggestedBindingRedirects.cache
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.Form1.resources
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.Properties.Resources.resources
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.csproj.GenerateResource.cache
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.csproj.CoreCompileInputs.cache
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.exe
+D:\TcpChatHiFreedomVersionTCP\Clients\ClientSideStarter\ClientSideStarter\obj\Debug\ClientSideStarter.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07c59e66-840f-45e9-977f-69e9eb94db4a": {
+      "ProjectGuid": "07c59e66-840f-45e9-977f-69e9eb94db4a",
+      "DisplayName": "ClientSideStarter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -156,7 +156,6 @@ namespace ServerTcp
         // clients group box elements
         // *******
         // *******
-
         private void btn_disconnect_Click(object sender, EventArgs e)
         {
             if (SELECTED_ID >= 0)
